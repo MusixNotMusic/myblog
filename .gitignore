@@ -33,3 +33,4 @@ coverage
 *.grb2
 *.grib
 *.grb
+*.idx

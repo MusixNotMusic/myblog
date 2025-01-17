@@ -49,6 +49,7 @@ export function init() {
     nightTexture.anisotropy = 8;
 
     const bumpRoughnessCloudsTexture = textureLoader.load( '/textures/planets/earth_bump_roughness_clouds_4096.jpg' );
+    // const bumpRoughnessCloudsTexture = textureLoader.load( '/textures/planets/tcc.png' );
     bumpRoughnessCloudsTexture.anisotropy = 8;
 
     // fresnel
